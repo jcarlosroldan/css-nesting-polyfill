@@ -10,7 +10,8 @@ A minimal polyfill for the [new CSS nesting WebKit feature](https://webkit.org/b
 	.bar {
 		font-size: 1.4rem;
 	}
-}```
+}
+```
 
 which is equivalent to:
 
