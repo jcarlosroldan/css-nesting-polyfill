@@ -1,0 +1,28 @@
+{
+	"name": "css-nesting-polyfill",
+	"version": "0.0.1",
+	"description": "A polyfill for the CSS nesting feature in WebKit",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/juancroldan/css-nesting-polyfill.git"
+	},
+	"keywords": [
+		"css",
+		"polyfill",
+		"webkit",
+		"nesting"
+	],
+	"author": "Carlos Roldán",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/juancroldan/css-nesting-polyfill/issues"
+	},
+	"homepage": "https://github.com/juancroldan/css-nesting-polyfill#readme",
+	"devDependencies": {
+		"jest": "^27.2.4"
+	}
+}
